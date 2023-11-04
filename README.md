@@ -8,7 +8,9 @@ Kar gledate (https://github.com/mihaf/bm), je statično spletno mestno na [GitHu
 
 Vse, kar najedete na tem spletnem mestu, je [odprta koda](https://en.wikipedia.org/wiki/Open_source), kar pomeni, da je prosto dostopno, dovoljeno je nadaljne kopiranje in spreminjanje v okviru [oprtokodne licence MIT](LICENSE.md).
 
+## Struktura spletnega mesta
 
+Navodila posmaznih nalog se nahajajo...
 
 
 
