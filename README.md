@@ -6,7 +6,7 @@ JupyterLite ([![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.
 
 Kar gledate (https://github.com/mihaf/bm), je statično spletno mestno na [GitHub](https://github.com/) straneh. Na njem so zbrana navodila za laboratorijske vaje v obliki spletnih beležnic (Jupyter Notebook datoteke s končnico .ipynb), ki lahko služijo tudi kot interaktivno okolje za obdelavo in predstavitev rezultatov meritev.
 
-Vse, kar najedete na tem spletnem mestu, je [odprta koda](https://en.wikipedia.org/wiki/Open_source), kar pomeni, da je prosto dostopno, dovoljeno je nadaljne kopiranje in spreminjanje v okviru oprtokodne licence.
+Vse, kar najedete na tem spletnem mestu, je [odprta koda](https://en.wikipedia.org/wiki/Open_source), kar pomeni, da je prosto dostopno, dovoljeno je nadaljne kopiranje in spreminjanje v okviru [oprtokodne licence MIT](LICENCE.md).
 
 
 
