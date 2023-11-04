@@ -2,7 +2,7 @@
 
 ## Navodila za laboratorijske vaje
 
-Navodila za laboratorijske vaje so zbrana v mapi [vaje](vaje/) v obliki spletnih beležnic [Jupyter Notebook](https://docs.jupyter.org/en/latest/) (datoteke s končnico .ipynb). Beležnice lahko služijo kot okolje za obdelavo in predstavitev rezultatov meritev. Interaktivno beležnico sestavljajo celice, ki jih prevedemo s kominbinacijo tipk CTRL+Enter.
+Navodila za laboratorijske vaje so zbrana v mapi [vaje](vaje/) v obliki spletnih beležnic [Jupyter Notebook](https://docs.jupyter.org/en/latest/) (datoteke s končnico .ipynb). Beležnice lahko služijo kot okolje za obdelavo in predstavitev rezultatov meritev. Interaktivno beležnico sestavljajo celice, ki jih prevedemo s kominbinacijo tipk <kbd>CTRL</kbd>+<kbd>Enter</kbd>.
 
 ## O okolju JupyterLite
 
