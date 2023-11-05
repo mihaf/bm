@@ -6,7 +6,7 @@ Navodila za laboratorijske vaje so sestavljene v obliki interkativnih spletnih b
 
 ## O okolju JupyterLite
 
-JupyterLite ([![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)) je distribucija razvojnega okolja [JupyterLab](https://docs.jupyter.org/en/latest/), ki teče izključno v spletnem brskalniku. Tako lahko na vseh napravah s spletnimi brskalniki takšno okolje odpremo ter popolnoma v okviru brskalnika pregledujemo, obdelujemo in predstavljamo podatke ter programsko kodo. JupyterLite preverjeno deluje na brskalnikih Firefox 90+ in Chromium 89+.
+JupyterLite ([![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)) je distribucija razvojnega okolja [JupyterLab](https://docs.jupyter.org/en/latest/), ki teče izključno v spletnem brskalniku. Tako lahko na vseh napravah s spletnimi brskalniki takšno okolje odpremo, pregledujemo, obdelujemo in predstavljamo podatke ter programsko kodo. JupyterLite preverjeno deluje na brskalnikih Firefox 90+ in Chromium 89+.
 
 ## Odprtokodna licenca
 
