@@ -2,7 +2,7 @@
 
 ## Navodila za laboratorijske vaje
 
-Navodila za laboratorijske vaje so sestavljene v obliki interkativnih spletnih beležnic [Jupyter Notebook](https://docs.jupyter.org/en/latest/) (datoteke s končnico .ipynb), ki služijo tudi kot okolje za obdelavo in predstavitev rezultatov meritev. Interaktivna beležnica je seznam celic, katerih vsebino izvedemo z gumbom "Play" (&#9658;) ali s kombinacijo tipk <kbd>CTRL</kbd>+<kbd>Enter</kbd>.
+Navodila za laboratorijske vaje so sestavljene v obliki interaktivnih spletnih beležnic [Jupyter Notebook](https://docs.jupyter.org/en/latest/) (datoteke s končnico .ipynb), ki služijo tudi kot okolje za obdelavo in predstavitev rezultatov meritev. Interaktivna beležnica je seznam celic, katerih vsebino izvedemo z gumbom "Play" (&#9658;) ali s kombinacijo tipk <kbd>CTRL</kbd>+<kbd>Enter</kbd>.
 
 ## O okolju JupyterLite
 
